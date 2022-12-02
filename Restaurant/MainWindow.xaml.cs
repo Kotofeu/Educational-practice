@@ -117,7 +117,8 @@ namespace Restaurant
                         {"Сумма","Total_amount" },
                         {"Номер официанта","id_waiter" }
                     };
-                DataGridSelect(CommandSelect.selectAll, Tables["Заказы"]);
+                string[] selectQuery = { "Orders.id", "Orders.Date AS Дата", "Orders.Table_number AS Номер_Стола", "Orders.Total_amount AS Сумма", "Waiter.Name AS Официант" };
+                DataGridSelect(selectQuery, "Orders, Waiter WHERE Waiter.id = id_waiter");
             }
             else if (ChoseString == "Состав")
             {
@@ -154,7 +155,7 @@ namespace Restaurant
                     command = new CommandSelect(array, datatable);
 
                 }
-               // command.Print();
+              //  command.Print();
                 command.SqlCommand().ExecuteNonQuery();
                 adapter = new SqlDataAdapter(command.SqlCommand());
                 dataSet = new System.Data.DataTable(datatable);
