@@ -15,3 +15,20 @@ C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.csproj.
 C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.csproj.CoreCompileInputs.cache
 C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.exe
 C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.pdb
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\bin\Release\Restaurant.exe.config
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\bin\Release\Restaurant.exe
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\bin\Release\Restaurant.pdb
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.csproj.ResolveComReference.cache
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\ItemInfo.g.cs
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\MainWindow.g.cs
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\App.g.cs
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant_MarkupCompile.cache
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant_MarkupCompile.lref
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\ItemInfo.baml
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\MainWindow.baml
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.g.resources
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.Properties.Resources.resources
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.csproj.GenerateResource.cache
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.exe
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.pdb
