@@ -1,0 +1,17 @@
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\MainWindow.g.cs
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\App.g.cs
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant_MarkupCompile.cache
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant_MarkupCompile.lref
+C:\Users\crasp\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\crasp\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\crasp\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\MainWindow.baml
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.g.resources
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\ItemInfo.g.cs
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\ItemInfo.baml
+C:\Users\crasp\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.ResolveComReference.cache
