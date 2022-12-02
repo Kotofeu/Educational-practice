@@ -56,6 +56,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="auth.xaml.cs">
+      <DependentUpon>auth.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CommandDelete.cs" />
     <Compile Include="CommandInsert.cs" />
     <Compile Include="Commands.cs" />
@@ -70,6 +73,10 @@
       <DependentUpon>restaurantDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="SqlConnectionSingle.cs" />
+    <Page Include="auth.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ItemInfo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

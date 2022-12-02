@@ -94,8 +94,8 @@
                 <ListBox x:Name="ChoseDateBase" Grid.Row = "2" Background="#263238" BorderBrush="#263238" SelectionChanged="DBchose">
                     <ListBoxItem x:Name="DishListBoxItem" Content="Блюда"></ListBoxItem>
                     <ListBoxItem Content="Напитки"></ListBoxItem>
-                    <ListBoxItem Content="Ингредиенты"></ListBoxItem>
-                    <ListBoxItem Content="Официанты"></ListBoxItem>
+                    <ListBoxItem x:Name="Ingredient" Content="Ингредиенты"></ListBoxItem>
+                    <ListBoxItem x:Name="Waiter" Content="Официанты"></ListBoxItem>
                     <ListBoxItem Content="Заказы"></ListBoxItem>
                 </ListBox>
             </Grid>

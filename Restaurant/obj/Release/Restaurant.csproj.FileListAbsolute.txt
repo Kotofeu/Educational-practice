@@ -32,3 +32,6 @@ C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\o
 C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.csproj.CoreCompileInputs.cache
 C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.exe
 C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.pdb
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\Restaurant.csproj.AssemblyReference.cache
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\auth.g.cs
+C:\Users\crasp\Desktop\Учебная практика\Недели\Restaurant\obj\Release\auth.baml

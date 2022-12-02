@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using System.Threading;
 using Excel = Microsoft.Office.Interop.Excel;
 using Microsoft.Office.Interop.Excel;
+using System.ComponentModel;
 
 namespace Restaurant
 {
@@ -30,15 +31,20 @@ namespace Restaurant
         static string ChoseString;
         public object Form { get; private set; }
 
-        public MainWindow()
+        public MainWindow(string role = "USER")
         {
             InitializeComponent();
             SearchGrid.Visibility = Visibility.Hidden;
             ResetBtn.Visibility = Visibility.Hidden;
             GridBtn.Visibility = Visibility.Hidden;
             AboutBtn.Visibility = Visibility.Collapsed;
-
+            this.Closed += Close;
             DishListBoxItem.IsSelected = true;
+            if (role != "ADMIN")
+            {
+                Ingredient.Visibility = Visibility.Collapsed;
+                Waiter.Visibility = Visibility.Collapsed;
+            }
         }
 
         private void DBchose(object sender, SelectionChangedEventArgs e)
@@ -179,12 +185,10 @@ namespace Restaurant
             ResetBtn.Visibility = Visibility.Hidden;
             CallDataGridSelect(ChoseString);
         }
-
-
-
         private void Close(object sender, EventArgs e)
         {
             SqlConnectionSingle.CloseConnection();
+            System.Windows.Application.Current.Shutdown();
         }
         public void OpenPerson(int id)
         {
