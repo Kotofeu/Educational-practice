@@ -7,7 +7,6 @@ using System.Data.SqlClient;
 using System.Threading;
 using Excel = Microsoft.Office.Interop.Excel;
 using Microsoft.Office.Interop.Excel;
-using System.ComponentModel;
 
 namespace Restaurant
 {

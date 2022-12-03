@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Restaurant"
         mc:Ignorable="d"
-        Title="Авторизация" Height="225" Width="383">
+        Title="Авторизация" Height="225" Width="383" MaxHeight="225" MaxWidth="383">
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="booleanToVisibilityConverter"/>
     </Window.Resources>
@@ -16,7 +16,7 @@
                    Name="textBlockHeading" 
                    Text="Авторизация:" 
                    VerticalAlignment="Top" 
-                   Width="110"  
+                   Width="143"  
                    FontSize="19" 
                    FontWeight="Bold"
                    FontStretch="ExtraCondensed"/>
