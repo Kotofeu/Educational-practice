@@ -88,11 +88,6 @@ public class EditingActivity extends AppCompatActivity {
             firthBox.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                     waiter_id = id;
-                    Toast toast = Toast.makeText(getApplicationContext(),
-                            id + "",
-                            Toast.LENGTH_SHORT);
-                    toast.setGravity(Gravity.CENTER, 0, 0);
-                    toast.show();
                 }
 
                 public void onNothingSelected(AdapterView<?> parent) {
